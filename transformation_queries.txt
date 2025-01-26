@@ -1,0 +1,9 @@
+truncate table `raydeepak0206.sales.orders` ;
+
+select * from `raydeepak0206.sales.orders` where InvoiceNo is not null;
+
+select country, count(*) from `raydeepak0206.sales.orders` group by country;
+
+select *, (UnitPrice*Quantity)as sale_value from `raydeepak0206.sales.orders`;
+
+select *, (UnitPrice*Quantity)as sale_value from `raydeepak0206.sales.orders` order by Country
