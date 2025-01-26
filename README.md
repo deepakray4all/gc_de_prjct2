@@ -1,12 +1,12 @@
 # GCP Data Engineering and Analytics Project
 This project is for extracting data from web app  to GCS and from there to BigQuery using Cloud Function
 
-##Requirement:
+## Requirement:
 1. Global Retail Chain needs to consolidate and analyze its sales  revenue
 2. The company needs a web application to load the sales data kept  in csv from all the geogaphy to a single location
 3. From  the single location the company wants to have analytics performed by it's Business Analyst
 
-##Solution
+## Solution
 1. A simple Web application to upload the csv files of sales data
 2. The Web Application should store these files in GCS Bucket
 3. When the file is uploaded to GCS bucket one GCP Cloud function event must be triggered
