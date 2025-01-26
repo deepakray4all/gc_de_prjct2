@@ -1,5 +1,5 @@
 # GCP Data Engineering and Analytics Project
-This project is for extracting data from web app  to GCS and from there to BigQuery using Cloud Function
+This project is the basic representation of ELT data pipeline : WebApp>>GCS>>CloudFunction>>BigQuery>>LookerStudio
 
 ## Requirement:
 1. Global Retail Chain needs to consolidate and analyze its sales  revenue
