@@ -15,5 +15,6 @@ This project is for extracting data from web app  to GCS and from there to BigQu
 6. The transformed data must be saved in BigQuery View
 7. Using Looker Studio the Dashboardcan  be created for the  bigquery data
 
-##Architecture
+## Architecture
+
 ![image](https://github.com/user-attachments/assets/f64a377a-e6ad-405d-a5c7-ecfa8f2f1c7a)
