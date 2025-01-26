@@ -1,5 +1,5 @@
 # GCP Data Engineering and Analytics Project
-This project is the basic representation of ELT data pipeline : WebApp>>GCS>>CloudFunction>>BigQuery>>LookerStudio
+This project demonstrates a streamlined ELT data pipeline, showcasing a seamless flow of data from a web application to advanced analytics. The pipeline integrates multiple Google Cloud Platform (GCP) services: the WebApp collects and ingests data, which is stored in Google Cloud Storage (GCS). A Cloud Function triggers automated transformations, loading the processed data into BigQuery for scalable, efficient analysis. Finally, Looker Studio visualizes insights, enabling interactive reporting and data-driven decision-making. This architecture highlights the end-to-end data journey, leveraging cloud-native services for a robust, scalable, and efficient solution.
 
 ## Requirement:
 1. Global Retail Chain needs to consolidate and analyze its sales  revenue
