@@ -18,3 +18,29 @@ This project is for extracting data from web app  to GCS and from there to BigQu
 ## Architecture
 
 ![image](https://github.com/user-attachments/assets/f64a377a-e6ad-405d-a5c7-ecfa8f2f1c7a)
+
+
+## Screenshots
+### WebApp for Uploading file
+![image](https://github.com/user-attachments/assets/60669c3c-f962-4be0-8409-3e423fdce120)
+
+### GCS Bucket with files
+![image](https://github.com/user-attachments/assets/62494a6b-6c58-4f56-88f3-715a8dd020a6)
+
+### Cloud Function
+![image](https://github.com/user-attachments/assets/54579109-6c3e-4646-829e-389ddbf69225)
+![image](https://github.com/user-attachments/assets/72c31ec4-c710-4ee6-8238-eb588a2f25ad)
+
+![image](https://github.com/user-attachments/assets/a26498ee-48f1-4bc0-99c1-900fd3ab9200)
+
+### BigQuery Data set ,Tables and Views
+![image](https://github.com/user-attachments/assets/306962a7-b95b-429a-8e62-c635d2ceff5a)
+![image](https://github.com/user-attachments/assets/2ce62b4f-febd-44ec-92c0-5fc7d40e1b3e)
+
+### Looker Studio  Dashboard
+![image](https://github.com/user-attachments/assets/f531d44d-1c93-4256-b28d-6fd0ecc96463)
+
+
+
+
+
